@@ -121,13 +121,15 @@ This workflow contains the following steps:
 | ----- | ----------| --- | --- | --------- | ------------- | --------- |
 | Messages | Yes | 0 | 20000 | Messages from the "MS Teams - Get Channel Messages" step. | | No |
 | Replies | No | 0 | 20000 | Replies from the "MS Teams - Get Channel Messages" step. | | No |
+| Type | Yes | 4 | 4 | Output type. Valid values are (text) or (html) | html | Yes |
+| Timezone | Yes | 0 | 20000 | Timezone for date/time in the outputted chat. Formatted like America/New_York. If invalid it will default to UTC. | | No |
 
 
 ### Outputs
 
 | Name | Description |
 | ---- | ----------  |
-| html | HTML output for use in an xMatters event. |
+| chat | Chat outputted in the specified format |
 
 
 ## Example
