@@ -1,7 +1,13 @@
 # Microsoft Teams Steps
 
-These steps allow you to Create a Meeting, Delete a Channel, Invite a user to a channel, and Get Messages from a Channel.
+These are a handful of useful Microsoft Teams steps:
 
+This workflow contains the following steps:
+- MS Teams - Create Conference Bridge
+- MS Teams - Delete Channel
+- MS Teams - Invite to Channel
+- MS Teams - Get Channel Messages
+- MS Teams - Beautify Chat
 
 ---------
 
@@ -36,13 +42,6 @@ None. This requires access to Microsoft Teams in order to be useful, so you'll n
 
 ## Usage
 There are many steps included with this workflow. The **Get Channel Messages** and **Beautify Chat** steps are meant to be used in conjunction in order to make the text usable in an xMatters event.
-
-This workflow contains the following steps:
-- MS Teams - Create Conference Bridge
-- MS Teams - Delete Channel
-- MS Teams - Invite to Channel
-- MS Teams - Get Channel Messages
-- MS Teams - Beautify Chat
 
 ---
 ## MS Teams - Create Conference Bridge
